@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lil-urbosa
 - 👀 I’m interested in finding the best developers
-- 🌱 I’m currently learning advanced sourcing
-- 💞️ I’m looking to collaborate on learning python
+- 🌱 I’m currently learning sourcing
 - 📫 How to reach me myriam@kmtx.com
 
 <!---
