@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lil-urbosa
-- 👀 I’m interested in finding the best developers
+- 👀 I’m interested in finding the best developpers
 - 🌱 I’m currently learning sourcing & web.3
 - 📫 How to reach me myriam.bouclier@kiln.fi
 <!---
